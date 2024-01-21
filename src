@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+<html>
+   <head>
+      
+      <title>Rafael Cabrera</title>
+      <font face="calibri">
+      <meta charset="UTF-8" name="viewport" content="width=device-width", "user-scalable = yes">
+      <style>
+         html, body{	
+         background-color:#FFFFFF;
+         width:794px; 
+         height:100%;
+         margin: auto;
+         }
+         hr {
+         margin: 5px;
+         }
+         h1 { 
+         display: inline;
+		 font-family: Arial, Helvetica, sans-serif;
+         }
+         ul {
+		 margin: 2px;
+         }
+         .vl {
+         border-left: 1px solid grey;
+         border-right: 1px solid grey;
+         padding: 10px;
+         }
+         @media print {
+         .noprint {
+         display: none;
+         }
+         @media print
+         {
+         div { border: none !important; } 
+         }
+		 @media print
+         {
+         a { text-decoration: none;
+				color: black;} 
+         }
+         @page {
+         size: auto;
+         margin: 0;
+         }
+      </style>
+   </head>
+   <div class="vl">
+      <body>
+
+         <p>
+            <br class="noprint">
+         <center>
+            <h1>Rafael <font color="#990000">Cabrera</font></h1>
+            </br>
+            Chantilly, VA</br>
+			<a href="mailto:r.cabrera1@outlook.com">
+			r.cabrera1@outlook.com</a> | 
+		
+			<a href="https://www.linkedin.com/in/cabrerarafael">
+			https://www.linkedin.com/in/cabrerarafael</a> |
+			(571)432-9282</br>
+           
+         </center>
+         <hr>
+         <b>CERTIFICATIONS</b>
+         <hr>
+         <ul style="margin:0;">
+			<li><a href=https://www.credly.com/badges/30830e6e-062c-4794-ba60-4c8bc85e06c5/public_url>AWS Certified Solutions Architect - Associate</a><span style="float:right;"> Obtained: October 2023</span></li>
+         </ul>          
+         <hr>      
+         <b>PROFESSIONAL EXPERIENCE</b>
+         <hr>
+         <b>Clinton Health Access Initiative</b> - Boston, MA <span style="float:right;">August 2020 - Current</span></br>
+         <i>Helpdesk Engineer</i>
+         <ul style="margin:0;">
+            <li>Successfully resolved technical issues for hundreds of users through phone, email, and remote assistance, ensuring minimal downtime and high user satisfaction</li>             
+            <li>Expertly supported hardware, software, and network-related problems, collaborating with cross-functional teams to resolve complex issues promptly.</li>
+            <li>Managed a high-volume ticketing system, ensuring incidents were categorized, prioritized, and resolved within defined service level agreements.</li>
+            <li>Developed and maintained a comprehensive knowledge base, documenting troubleshooting steps and best practices for future reference.</li>
+            <li>Proactively identified opportunities for process improvement, streamlining support procedures, and reducing resolution time.</li>
+            </ul>
+         <b>GRSI @ NHLBI/NIH</b> - Bethesda, MD <span style="float:right;">January 2020 - April 2020</span></br>
+         <i>Service Desk Technician</i>
+         <ul style="margin:0;">
+            <li>Configured and deployed new workstations, ensuring hardware and software compatibility, and collaborated in regular system maintenance.</li>
+            <li>Provided technical support to hundreds of employees, resolving hardware and software issues and conducting user training on system usage.</li>
+         </ul>
+         <b>Utopic Results LLC</b> - Springfield, VA <span style="float:right;">February 2018 - August 2019</span></br>
+         <i>IT Support Specialist</i>
+         <ul style="margin:0;">
+            <li>Offered on-site technical support to medical facilities, ensuring seamless operations of critical technology systems and equipment.</li>
+            <li>Provided prompt responses to service requests, troubleshooting hardware, software, and network problems efficiently.</li>
+            <li>Coordinated with vendors for equipment repairs, warranty claims, and replacement parts, ensuring uninterrupted medical technology operations.</li>
+            <li>Kept abreast of healthcare IT industry trends, providing effective technical guidance and support while maintaining detailed service documentation.</li>
+         </ul>
+         <b>
+            <hr>
+            PROJECTS
+            <hr>
+         </b>
+         <b>Resume Challenge <a href = "https://cabreraprofile.com">https://cabreraprofile.com</a></b>
+         <ul style="margin:0;">
+            <li>Created a static website using AWS management console</li>
+            <li>Services: AWS Organizations / IAM Identity Center / S3 / CloudFront / Certificate Manager / Route53 / API Gateway / Lambda / DynamoDB</li>
+      </body>
+   </div>
+</html>
